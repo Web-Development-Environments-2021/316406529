@@ -11,12 +11,12 @@
     padding-top: 180px;
 }
 #frame{
-	background-color: blanchedalmond;
+	background-color: rgb(221, 221, 221);
 }
 h1{
 	font-style:initial;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	color: antiquewhite;
+	color: rgb(221, 221, 221);
 }
 .menu
 {
@@ -125,8 +125,6 @@ td{
     min-height: 150px;
     padding: 10px;
 	padding-top: 180px;
-	background-color: blanchedalmond;	
-
 }
 
 
