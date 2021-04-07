@@ -1,9 +1,8 @@
 #header{
 	background-image: url('images.jfif');
-	
 	position: fixed;
 	top: 0;
-	width: 100%;
+	width: 99%;
     height: 150px;
     
 }
@@ -13,6 +12,11 @@
 }
 #frame{
 	background-color: blanchedalmond;
+}
+h1{
+	font-style:initial;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: antiquewhite;
 }
 .menu
 {
@@ -30,17 +34,20 @@
 }
 
 #logo_L{
-	margin-left: 5px;
+	margin-left: 1px;
 	float:left;
 	height:150px;
 	width:150px;
+	border-radius: 4px;
 }
 
 #logo_R{
-	margin-right: 5px;
+	margin-right: 1px;
 	float:right;
 	height:150px;
 	width:150px;
+	border-radius: 4px;
+
 }
 
 li{
@@ -118,8 +125,11 @@ td{
     min-height: 150px;
     padding: 10px;
 	padding-top: 180px;
-	
+	background-color: blanchedalmond;	
+
 }
+
+
 #like_b{
 	margin: 5px;
 	float: none;
